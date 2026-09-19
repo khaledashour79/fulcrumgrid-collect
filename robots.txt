@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fulcrumgrid-collect.com/sitemap.xml
